@@ -1,0 +1,225 @@
+{
+    "catchAll": {
+        "phrases": [
+            "Извините, непонятно"
+        ]
+    },
+    "fulfillment": {
+        "settings": {
+            "default": {
+                "url": ""
+            },
+            "channels": []
+        },
+        "actions": [
+            {
+                "state": "/newNode_0",
+                "action": "Вы",
+                "color": "#EAEAEA"
+            },
+            {
+                "state": "/newNode_2",
+                "action": "Вы",
+                "color": "#EAEAEA"
+            },
+            {
+                "state": "/newNode_3",
+                "action": "Вы",
+                "color": "#EAEAEA"
+            },
+            {
+                "state": "/newNode_5",
+                "action": "Вы",
+                "color": "#EAEAEA"
+            },
+            {
+                "state": "/newNode_7",
+                "action": "Вы",
+                "color": "#EAEAEA"
+            },
+            {
+                "state": "/newNode_11",
+                "action": "Вы",
+                "color": "#EAEAEA"
+            },
+            {
+                "state": "/newNode_13",
+                "action": "Вы",
+                "color": "#EAEAEA"
+            },
+            {
+                "state": "/newNode_14",
+                "action": "Вы",
+                "color": "#EAEAEA"
+            },
+            {
+                "state": "/newNode_17",
+                "action": "Вы",
+                "color": "#EAEAEA"
+            },
+            {
+                "state": "/newNode_18",
+                "action": "Вы",
+                "color": "#EAEAEA"
+            },
+            {
+                "state": "/newNode_19",
+                "action": "Вы",
+                "color": "#EAEAEA"
+            },
+            {
+                "state": "/newNode_21",
+                "action": "Вы",
+                "color": "#EAEAEA"
+            },
+            {
+                "state": "/newNode_22",
+                "action": "Вы",
+                "color": "#EAEAEA"
+            },
+            {
+                "state": "/newNode_24",
+                "action": "Вы",
+                "color": "#EAEAEA"
+            },
+            {
+                "state": "/newNode_26",
+                "action": "Вы",
+                "color": "#EAEAEA"
+            },
+            {
+                "state": "/newNode_28",
+                "action": "Вы",
+                "color": "#EAEAEA"
+            },
+            {
+                "state": "/newNode_29",
+                "action": "Вы",
+                "color": "#EAEAEA"
+            },
+            {
+                "state": "/newNode_31",
+                "action": "Вы",
+                "color": "#EAEAEA"
+            },
+            {
+                "state": "/newNode_33",
+                "action": "Вы",
+                "color": "#EAEAEA"
+            },
+            {
+                "state": "/newNode_41",
+                "action": "Вы",
+                "color": "#EAEAEA"
+            },
+            {
+                "state": "/newNode_43",
+                "action": "Имя экрана",
+                "color": "#EAEAEA"
+            },
+            {
+                "state": "/newNode_45",
+                "action": "Ты",
+                "color": "#EAEAEA"
+            },
+            {
+                "state": "/newNode_47",
+                "action": "Ты",
+                "color": "#EAEAEA"
+            },
+            {
+                "state": "/newNode_49",
+                "action": "Ты",
+                "color": "#EAEAEA"
+            },
+            {
+                "state": "/newNode_50",
+                "action": "Ты",
+                "color": "#EAEAEA"
+            },
+            {
+                "state": "/newNode_44",
+                "action": "Вы"
+            },
+            {
+                "state": "/newNode_54",
+                "action": "Ты",
+                "color": "#EAEAEA"
+            },
+            {
+                "state": "/newNode_56",
+                "action": "Ты",
+                "color": "#EAEAEA"
+            },
+            {
+                "state": "/newNode_58",
+                "action": "Ты",
+                "color": "#EAEAEA"
+            },
+            {
+                "state": "/newNode_60",
+                "action": "Ты",
+                "color": "#EAEAEA"
+            },
+            {
+                "state": "/newNode_61",
+                "action": "Ты",
+                "color": "#EAEAEA"
+            },
+            {
+                "state": "/newNode_62",
+                "action": "Ты",
+                "color": "#EAEAEA"
+            },
+            {
+                "state": "/newNode_63",
+                "action": "Ты"
+            },
+            {
+                "state": "/newNode_64",
+                "action": "Ты",
+                "color": "#EAEAEA"
+            },
+            {
+                "state": "/newNode_65",
+                "action": "Ты",
+                "color": "#EAEAEA"
+            },
+            {
+                "state": "/newNode_66",
+                "action": "Ты",
+                "color": "#EAEAEA"
+            },
+            {
+                "state": "/newNode_67",
+                "action": "Ты",
+                "color": "#EAEAEA"
+            },
+            {
+                "state": "/newNode_68",
+                "action": "Ты",
+                "color": "#EAEAEA"
+            },
+            {
+                "state": "/newNode_69",
+                "action": "Ты",
+                "color": "#EAEAEA"
+            },
+            {
+                "state": "/newNode_70",
+                "action": "Ты",
+                "color": "#EAEAEA"
+            },
+            {
+                "state": "/newNode_71",
+                "action": "Ты",
+                "color": "#EAEAEA"
+            },
+            {
+                "state": "/newNode_73",
+                "action": "Имя экрана",
+                "color": "#EAEAEA"
+            }
+        ]
+    }
+}
