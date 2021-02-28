@@ -20,7 +20,7 @@ npm install
 npm start
 ```    
 >ToDo   
->> Back-end
+>> Back-end    
 *Версия Python 3.8*    
 Сначала установим зависимости ```pip install -r requirements.txt```    
 После первого старта командой ``` python manage.py runserver ```    
