@@ -14,11 +14,10 @@
 
 
 # Инструкцию по сборке проекта
-> LifeBot
+> LifeBot (SmartApp Graph)    
 ```
-npm install
-npm start
-```    
+Загружается на площадку
+```
 >ToDo   
 >> Back-end    
 *Версия Python 3.8*    
