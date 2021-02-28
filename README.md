@@ -14,22 +14,11 @@
 
 
 # Инструкцию по сборке проекта
-> LifeBot
+> LifeBot (SmartApp Graph)    
 ```
-npm install
-npm start
-```    
+Загружается на площадку
+```
 >ToDo   
->> Back-end    
-*Версия Python 3.8*    
-Сначала установим зависимости ```pip install -r requirements.txt```    
-После первого старта командой ``` python manage.py runserver ```    
-Сделаем миграции в базу данных    
-```
-python manage.py makemigrations
-python manage.py migrate
-```    
->> Front-end
 ```
 npm start
 ```
