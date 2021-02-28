@@ -1,0 +1,20 @@
+{
+  "project" : {
+    "id" : "test_11-17854-Wkr",
+    "name" : "test_11-17854-Wkr",
+    "folder" : "/jaicp"
+  },
+  "settings" : {
+    "language" : "ru",
+    "spellingCorrection" : false,
+    "classificationAlgorithm" : "sts",
+    "timezone" : "UTC",
+    "extendedSettings" : {
+      "tokenizerEngine" : "mystem"
+    },
+    "shared" : false
+  },
+  "intents" : [ ],
+  "entities" : [ ],
+  "enabledSystemEntities" : [ ]
+}
