@@ -20,5 +20,6 @@
 ```
 >ToDo   
 ```
+npm install
 npm start
 ```
