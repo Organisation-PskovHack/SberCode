@@ -8,9 +8,20 @@ from .serializers import TaskListSerializer
 class TaskList(APIView):
 
     def get(self, request):
-        templates = Task.objects.all()
-        serializer = TaskListSerializer(templates, many=True)
-        return Response(serializer.data)
+        tasks = Task.objects.all()
+        data = []
+        for task in tasks:
+            data.append(
+                {
+                    "id": task.id,
+                    "title": task.title,
+                    "active": task.is_ready,
+                }
+            )
+
+        return Response({
+            "tasks": data,
+        })
 
 
 class TaskCreate(APIView):
